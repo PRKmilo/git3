@@ -46,6 +46,9 @@ public class controller {
 				num.setNumero(vista.leerDato1());
 				vista.mostrarmensaje2(""+sumadigitos());
 				System.exit(0);
+				
+			case 22:
+				System.out.println("cambio");
 
 
 			case 0:
